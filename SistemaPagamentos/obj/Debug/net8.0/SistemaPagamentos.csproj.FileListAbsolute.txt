@@ -1,0 +1,14 @@
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/bin/Debug/net8.0/SistemaPagamentos
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/bin/Debug/net8.0/SistemaPagamentos.deps.json
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/bin/Debug/net8.0/SistemaPagamentos.runtimeconfig.json
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/bin/Debug/net8.0/SistemaPagamentos.dll
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/bin/Debug/net8.0/SistemaPagamentos.pdb
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.AssemblyInfoInputs.cache
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.AssemblyInfo.cs
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.csproj.CoreCompileInputs.cache
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.dll
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/refint/SistemaPagamentos.dll
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.pdb
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/SistemaPagamentos.genruntimeconfig.cache
+/home/kichnect/Documents/SistemaPagamentos/SistemaPagamentos/obj/Debug/net8.0/ref/SistemaPagamentos.dll
