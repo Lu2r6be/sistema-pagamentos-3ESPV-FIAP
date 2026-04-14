@@ -59,8 +59,10 @@ A pasta `Models` tem as classes de pagamento. A pasta `UI` tem a classe estátic
 ### Opção inválida e encerramento
 
 Opção inválida:
+
 <img width="424" height="137" alt="Screenshot_20260414_205358" src="https://github.com/user-attachments/assets/233b45a8-9a66-4112-9247-a67575c95616" />
 
 Encerramento:
+
 <img width="417" height="138" alt="Screenshot_20260414_205520" src="https://github.com/user-attachments/assets/21b6d1f1-0b36-45d9-aef0-89d815430c73" />
 
