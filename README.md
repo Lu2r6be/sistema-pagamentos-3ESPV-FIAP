@@ -51,13 +51,16 @@ A pasta `Models` tem as classes de pagamento. A pasta `UI` tem a classe estátic
 ## Evidências de teste
 
 ### Pagamento com Cartão
---
+<img width="780" height="210" alt="Screenshot_20260414_202122" src="https://github.com/user-attachments/assets/4142cf28-4c3b-4fcb-a4c3-ceaab6bc5d65" />
 
-### Pagamento com Boleto
---
-
-### Valor com ponto no lugar de vírgula
---
+### Pagamento com Boleto e Valor com virgula no lugar de ponto
+<img width="896" height="190" alt="Screenshot_20260414_205119" src="https://github.com/user-attachments/assets/d17d9cdd-9bb4-4866-9585-779145e30a3b" />
 
 ### Opção inválida e encerramento
---
+
+Opção inválida:
+<img width="424" height="137" alt="Screenshot_20260414_205358" src="https://github.com/user-attachments/assets/233b45a8-9a66-4112-9247-a67575c95616" />
+
+Encerramento:
+<img width="417" height="138" alt="Screenshot_20260414_205520" src="https://github.com/user-attachments/assets/21b6d1f1-0b36-45d9-aef0-89d815430c73" />
+
